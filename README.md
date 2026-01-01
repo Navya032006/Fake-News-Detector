@@ -73,6 +73,14 @@ fake-news-detector/
 ```
 ---
 
+## 📷 Screenshots
+<img width="1919" height="891" alt="Screenshot 2026-01-01 155631" src="https://github.com/user-attachments/assets/c7b55457-bcf9-4515-84a7-3fbcae56678e" />
+
+<img width="1913" height="911" alt="Screenshot 2026-01-01 155745" src="https://github.com/user-attachments/assets/80711750-daba-4a6a-a7bf-96acaefad180" />
+
+
+---
+
 ## ⚙️ Local Setup
 
 ### 1️⃣ Clone the Repository
