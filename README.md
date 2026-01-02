@@ -85,7 +85,7 @@ fake-news-detector/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/fake-news-detector.git
+https://github.com/Navya032006/Fake-News-Detector.git
 cd fake-news-detector
 ```
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended) 
